@@ -1,32 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Nehakumari02 
-lavish2210
-/
-Credit-Management
-Public
-1
-05
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Credit-Management/databases/COURSE_DATA.js /
-@AvniMittal13
-AvniMittal13 Databases, Courses page v1 added
-Latest commit 28e1f4c 11 days ago
- History
- 1 contributor
-2848 lines (2847 sloc)  62.6 KB
+
   
 const courseData= [
     {
@@ -2875,17 +2847,4 @@ const courseData= [
     }
 ]
 
-module.exports = courseData
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
+module.exports=courseData
