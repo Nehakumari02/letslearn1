@@ -2,5 +2,6 @@
     background:black;
     height: 100px;
     width:250px;
+    background-image: linear-gradient(rgba(4,9,30,0.7)),url(library-management-system.jpg);
 }
 table, th, td{border:1px solid black}
